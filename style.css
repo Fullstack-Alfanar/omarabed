@@ -1,0 +1,27 @@
+.div2{
+    width: 25px;
+    height: 25px;
+}
+.rectangle{    
+width:50%;
+height: 10px;
+border: 1px;
+border-color: black;
+border-style: double;
+display: flex;
+align-items: center;
+}
+.good{
+    background-color: rgb(0, 255, 0);
+}
+
+.mid{
+    width: 40%;
+    background-color: rgb(179, 253, 7);
+
+}
+
+.bad{
+    width: 30%;
+    background-color: rgb(255, 230, 4);
+}
