@@ -1,8 +1,8 @@
 # My C.V 
 
 ## this project contains my cv 
-hey I'm Neven shalata From israel , I'm a web developer .
-
+hey I'm omar abed From israel , I'm a web developer .
+--
 ### personal information
 -name
 -email
